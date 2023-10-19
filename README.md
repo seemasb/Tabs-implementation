@@ -1,3 +1,16 @@
+#React Tabs Component
+
+A versatile and customizable React Tabs Component that allows users to switch between different tabbed content sections. This component was designed with a compound component pattern.
+
+#Features
+
+1- Tab Switching: Users can easily switch between tabs by clicking on the tab headers.
+2- Dynamic Content: Supports dynamic content for each tab, making it suitable for various use cases.
+3- Compound Component Pattern: Utilizes a compound component pattern to encapsulate the logic and rendering of individual tabs and their content. This promotes clean code organization and separation of concerns.
+4- Customization: Provides options for customizing the tab styling and behavior, including active tab highlighting and more.
+5- Efficiency: Designed with code efficiency and performance in mind, minimizing unnecessary re-renders and supporting lazy loading of tab content.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
