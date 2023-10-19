@@ -1,0 +1,11 @@
+.tab-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #9ED2BE;
+    margin-top: 10px;
+    min-height: 30vh;
+    font-size: larger;
+  }
+  
