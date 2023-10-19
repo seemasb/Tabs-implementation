@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tabs-implementation/static/css/main.494c478f.css",
+    "main.js": "/Tabs-implementation/static/js/main.ef9670b7.js",
+    "static/js/787.3e695dbe.chunk.js": "/Tabs-implementation/static/js/787.3e695dbe.chunk.js",
+    "index.html": "/Tabs-implementation/index.html",
+    "main.494c478f.css.map": "/Tabs-implementation/static/css/main.494c478f.css.map",
+    "main.ef9670b7.js.map": "/Tabs-implementation/static/js/main.ef9670b7.js.map",
+    "787.3e695dbe.chunk.js.map": "/Tabs-implementation/static/js/787.3e695dbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494c478f.css",
+    "static/js/main.ef9670b7.js"
+  ]
+}
